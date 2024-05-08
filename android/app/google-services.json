@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520251107187",
+    "project_id": "authcourse-f928c",
+    "storage_bucket": "authcourse-f928c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520251107187:android:ac40eea7df9afe1746c706",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXU_BObFA4MnC4Z55XkkJVs2SRMC4m8js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
